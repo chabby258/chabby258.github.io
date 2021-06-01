@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>打工人 on How to be happy</title>
-    <link>https://example.com/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/</link>
+    <link>/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/</link>
     <description>Recent content in 打工人 on How to be happy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://example.com/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 16:00:00 +0800</lastBuildDate><atom:link href="/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>龔俊ㄉ蕪湖</title>
-      <link>https://example.com/posts/code-demo/</link>
+      <link>/posts/code-demo/</link>
       <pubDate>Mon, 31 May 2021 16:00:00 +0800</pubDate>
       
-      <guid>https://example.com/posts/code-demo/</guid>
+      <guid>/posts/code-demo/</guid>
       <description>&lt;h3 id=&#34;好喜歡你原唱王廣允&#34;&gt;好喜歡你(原唱:王廣允)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://img1.ali213.net/glpic/2021/03/09/584_2021030912622813.gif&#34; alt=&#34;wo&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;

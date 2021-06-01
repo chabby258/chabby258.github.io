@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E5%86%B7%E5%97%8E/</loc>
+    <loc>/tags/%E5%86%B7%E5%97%8E/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/%E5%8F%AF%E8%83%BD%E6%9C%89%E9%BB%9E%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99/</loc>
+    <loc>/posts/%E5%8F%AF%E8%83%BD%E6%9C%89%E9%BB%9E%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E5%BF%AB%E6%A8%82%E6%B3%89%E6%BA%90/</loc>
+    <loc>/categories/%E5%BF%AB%E6%A8%82%E6%B3%89%E6%BA%90/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E6%88%96%E8%A8%B1%E6%9C%83%E5%86%B7/</loc>
+    <loc>/tags/%E6%88%96%E8%A8%B1%E6%9C%83%E5%86%B7/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E6%9C%89%E9%BB%9E%E5%A5%BD%E7%AC%91/</loc>
+    <loc>/categories/%E6%9C%89%E9%BB%9E%E5%A5%BD%E7%AC%91/</loc>
     <lastmod>2021-06-01T22:28:14+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-05-31T16:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E5%94%B1%E6%AD%8C%E8%B7%B3%E8%88%9E/</loc>
+    <loc>/categories/%E5%94%B1%E6%AD%8C%E8%B7%B3%E8%88%9E/</loc>
     <lastmod>2021-05-31T16:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E5%BC%B5%E5%93%B2%E7%80%9A/</loc>
+    <loc>/tags/%E5%BC%B5%E5%93%B2%E7%80%9A/</loc>
     <lastmod>2021-05-31T16:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E9%BE%94%E4%BF%8A/</loc>
+    <loc>/tags/%E9%BE%94%E4%BF%8A/</loc>
     <lastmod>2021-05-31T16:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/the-fox-and-the-grapes/</loc>
+    <loc>/posts/the-fox-and-the-grapes/</loc>
     <lastmod>2021-05-31T16:08:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/drakshasava/</loc>
+    <loc>/posts/drakshasava/</loc>
     <lastmod>2021-05-31T16:02:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/</loc>
+    <loc>/tags/%E6%89%93%E5%B7%A5%E4%BA%BA/</loc>
     <lastmod>2021-05-31T16:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/code-demo/</loc>
+    <loc>/posts/code-demo/</loc>
     <lastmod>2021-05-31T16:00:00+08:00</lastmod>
   </url>
 </urlset>
